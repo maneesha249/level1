@@ -1,4 +1,4 @@
-const s = ()=>{
+const welcome = ()=>{
     console.log("Welcome to WD 201!! ");
 };
-s();
+welcome();
