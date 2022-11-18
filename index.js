@@ -1,4 +1,4 @@
-const t = ()=>{
-    console.log("Good morning!! ");
+const hello = ()=>{
+    console.log("Hello,welcome to Node.js! ");
 };
-t();
+hello();
